@@ -1,0 +1,21 @@
+*{
+    font-family: 'segio UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+#a{
+    background-color: red;
+    
+}
+
+.b{
+    background-color: blue;
+}
+
+.c{
+    background-color: green;
+}
+
+.c:hover{
+    background-color: chocolate;
+}
